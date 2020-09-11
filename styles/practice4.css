@@ -1,0 +1,45 @@
+
+
+
+body{
+    background-color: lightslategray;
+}
+
+div{
+    
+}
+
+.cont{
+    display: flex;
+    border: 2px solid goldenrod;
+    width: 2004px;
+}
+
+.div{
+    width: 100%;
+    height: 684px;
+    border: 1px solid saddlebrown;
+}
+
+#div1{
+    background-image: url('../images/5e21fe57a01f3fcf22520c5fcfb91df8--pinball-games-mario-nintendo.jpg');
+    background-size: cover;
+    
+}
+
+#div2{
+    background-image: url('../images/7802_front.jpg');
+    background-size: cover;
+    
+}
+
+#div3{
+    background-image: url('../images/cee8551e9f919b2c88878c1dc759999e.jpg');
+    background-size: cover;
+}
+
+
+#div4{
+    background-image: url('../images/EFqZ1qsXoAEfUUp.jpg');
+    background-size: cover;
+}
